@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/21954664/211223952-96d92ec8-5c6f-40ca-a3d5-ca9b2eaff8f3.svg" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/8238804/236215054-96b20b86-4f15-4b89-8e54-ac556ba4aafb.svg" width="300" height="300">
 
 ## Welcome to [scverse](https://github.com/scverse)!
 
