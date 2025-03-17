@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/8238804/236215054-96b20b86-4f15-4b89-8e54-ac556ba4aafb.svg" width="300" height="300">
+[<img src="https://user-images.githubusercontent.com/8238804/236215054-96b20b86-4f15-4b89-8e54-ac556ba4aafb.svg" alt="scverse" align="right" width="200" height="200">](https://scverse.org)
 
 ## Welcome to [scverse](https://github.com/scverse)®!
 
@@ -8,6 +8,6 @@ Here's how to get started:
 
 - 📚 See available packages on the [website](https://scverse.org/packages).
 - 👩‍💻 Check out the [learning page](https://scverse.org/learn).
-- 🙋‍♀️ Come and say hi on our [zulip](https://scverse.zulipchat.com)!
-- 🍿 Get to know the [people behind scverse](https://scverse.org/people), get involved!
+- <img src="https://zulip.com/static/images/logo/zulip-icon-square.svg" width="15" height="15" style="vertical-align: middle; margin-right: 5px;">  Come and say hi on our [zulip](https://scverse.zulipchat.com)!
+- 👩 Get to know the [people behind scverse](https://scverse.org/people), get involved!
 - 🌈 Please abide by our community [code of conduct](https://scverse.org/about/code_of_conduct)
