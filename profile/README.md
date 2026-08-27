@@ -1,6 +1,6 @@
 ## Welcome to [scverse](https://github.com/scverse)®!
 
-[<img src="https://scverse.org/img/icons/scverse-bw-logo.svg" alt="scverse" align="right" width="200" height="212">](https://scverse.org)
+[<img src="https://scverse.org/img/icons/scverse-bw-logo.svg" alt="scverse" align="right" width="200">](https://scverse.org)
 
 [scverse](https://github.com/scverse)® is a community that develops and maintains foundational tools for single-cell omics data analysis in primarily Python.
 
