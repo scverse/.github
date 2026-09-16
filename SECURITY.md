@@ -4,8 +4,7 @@
 
 Open the affected repository, go to its **Security** tab and click **Report a vulnerability**.
 This creates a draft advisory visible only to you and the maintainers.
-Message the core team privately on Zulip instead if private reporting is off for that repository, or if the problem spans several packages; this reaches the relevant people faster than email.
-Email <steering-council@scverse.org> if you cannot reach us on Zulip.
+Email <core@scverse.org> instead if private reporting is off for that repository, or if the problem spans several packages.
 Do not report a suspected vulnerability in a public issue or on a public Zulip stream.
 Include the affected package and version, and enough detail to reproduce it.
 
