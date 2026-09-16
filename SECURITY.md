@@ -17,7 +17,7 @@ We will credit you unless you prefer to stay anonymous, and agree the disclosure
 ## Supported versions
 
 Fixes go into a new release of the affected package.
-We do not guarantee backporting security fixes to older releases; some maintainers may do so at their discretion.
+We do not guarantee backporting security fixes to older releases.
 
 ## Out of scope
 
